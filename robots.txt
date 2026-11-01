@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: trocar pelo domínio definitivo
+Sitemap: https://www.SEU-DOMINIO.com.br/sitemap.xml
